@@ -15,7 +15,7 @@ Cada um dos participantes deve escrever o código necessário para as funcionali
 - Linguagem de programação: Python
 - Versionamento: Git
 
-### Observação:
+### Observações:
 - Não devem ser realizados commits na branch main
 - A branch main deve receber apenas merge
 - Todos devem criar uma branch para adicionar funcionalidades
