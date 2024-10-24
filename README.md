@@ -1,7 +1,7 @@
 # Atividade Pontuada
 
 ### Objetivo:
-Em até 2 componentes, crie um software com 4 funcionalidades para um dos sistemas de gestão listados abaixo:
+Em até 3 componentes, crie um software com 4 funcionalidades para um dos sistemas de gestão listados abaixo:
 
 - Banco
 - Biblioteca
